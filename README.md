@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlexAndguladze
-- 👀 I’m interested in software developent with C#
+- 👀 I’m interested in software developent
 - 🌱 I’m currently learning .NET framework, C#, XAML
 
 <!---
